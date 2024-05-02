@@ -27,6 +27,6 @@
 # /bootstrap
 # /controllers
 # /database
-/functions
+# /functions
 /models
 /template
