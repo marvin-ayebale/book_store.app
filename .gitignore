@@ -1,0 +1,32 @@
+# .gitattributes
+# .gitignore
+# admin.php
+# admin_add.php
+# admin_book.php
+# admin_delete.php
+# admin_edit.php
+# admin_signout.php
+# admin_verify.php
+# book.php
+# bookPerPub.php
+# books.php
+# cart.php
+# checkout.php
+# edit_book.php
+# empty_session.php
+# file_lister_to_gitignore.bat
+# index.php
+# obs manual - read me.txt
+# process.php
+# publisher_list.php
+# purchase.php
+# README.md
+# user_rating.php
+# user_register.php
+# verify.php
+/bootstrap
+/controllers
+/database
+/functions
+/models
+/template
