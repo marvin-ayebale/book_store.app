@@ -24,7 +24,7 @@
 # user_rating.php
 # user_register.php
 # verify.php
-/bootstrap
+# /bootstrap
 /controllers
 /database
 /functions
