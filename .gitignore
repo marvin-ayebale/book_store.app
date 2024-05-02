@@ -25,7 +25,7 @@
 # user_register.php
 # verify.php
 # /bootstrap
-/controllers
+# /controllers
 /database
 /functions
 /models
