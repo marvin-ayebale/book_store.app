@@ -1,6 +1,5 @@
 @echo off
-echo
-echo
+CLS
 echo THIS IS THE STATUS OF THE REPOSITORY
 git status
 pause
@@ -22,8 +21,7 @@ ECHO PUSHING YOUR UPDATES TO REMOTE REPO
 git push
 pause
 CLS
-echo
-echo
 echo THIS IS THE STATUS OF THE REPOSITORY
 git status
+ECHO UPDATE COMPLETE
 pause
