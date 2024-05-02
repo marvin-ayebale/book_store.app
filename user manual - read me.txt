@@ -1,4 +1,4 @@
-Extract and move "obs" folder into address "C:\xampp\htdocs" on your pc
+Extract and move "book_store.app" folder into address "C:\xampp\htdocs" on your pc
 
 Open xampp control Panel and start Apache and MySQL
 
@@ -6,5 +6,5 @@ Go the browser and open link: http://localhost/phpmyadmin/
 
 Create new database called "obs_db": and click import., select sql file from this adress: C:\xampp\htdocs\obs\database . and scroll down click GO button
 
-Lastly go to this address http://localhost/obs/ on browser
+Lastly go to this address http://localhost/book_store.app/ on browser
 
