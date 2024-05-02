@@ -28,5 +28,5 @@
 # /controllers
 # /database
 # /functions
-/models
+# /models
 /template
